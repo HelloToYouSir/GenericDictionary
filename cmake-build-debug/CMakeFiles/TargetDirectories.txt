@@ -1,0 +1,4 @@
+C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/CMakeFiles/GenericDictionary.dir
+C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/CMakeFiles/edit_cache.dir

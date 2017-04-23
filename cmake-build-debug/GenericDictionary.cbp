@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GenericDictionary"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GenericDictionary">
+				<Option output="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/GenericDictionary.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 GenericDictionary"/>
+					<CompileFile command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GenericDictionary/fast">
+				<Option output="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/GenericDictionary.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 GenericDictionary/fast"/>
+					<CompileFile command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include-fixed"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/../../../../i686-w64-mingw32/include"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="Z:/MinGW/mingw32/bin/../lib/gcc/i686-w64-mingw32/6.2.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Z:/MinGW/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/Dictionary.h">
+			<Option target="GenericDictionary"/>
+		</Unit>
+		<Unit filename="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/KeyValue.h">
+			<Option target="GenericDictionary"/>
+		</Unit>
+		<Unit filename="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/Testing/testMain.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/main.cpp">
+			<Option target="GenericDictionary"/>
+		</Unit>
+		<Unit filename="C:/Users/Beasty/CLionProjects/CodeReviewforDaveSphar/GenericDictionary/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
